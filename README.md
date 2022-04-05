@@ -57,6 +57,6 @@ func resetGrid() {
 }
 ```
 
-Aaaaaand that's it. Kinda simple. For more animations, refer to the link down below.
+Kinda simple. For more animations, refer to the link down below.
 
 https://github.com/seldon1000/SwiftUI_Animations
