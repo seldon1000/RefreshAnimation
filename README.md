@@ -10,7 +10,7 @@ RefreshAnimation is a XCode project, containing an application prototype showcas
 
 Let's talk about how to refresh a grid of dots and hot to animate it in a smooth and crisp way.
 
-![Alt Text](https://github.com/seldon1000/SwiftUI_Animations/blob/main/ezgif-1-9e57cf8c41.gif)
+![Alt Text](https://github.com/seldon1000/RefreshAnimation/blob/main/refresh.gif)
 
 Cool, but how? Nothing special actually, in fact we will use the same components discussed in the SwipeAnimation repository (https://github.com/seldon1000/SwipeAnimation). Below, there's a ```longPressGesture``` we apply to the whole view in the Start file.
 
